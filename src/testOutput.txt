@@ -1,0 +1,1 @@
+{"totalPrice":95,"discountAmount":9.5,"priceAfterDiscount":85.5}
